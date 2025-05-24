@@ -19,7 +19,8 @@
 
 ## 💻 Projeto
 
-Uma simples página com informações sobre um determinado local turístico, para praticar os fundamentos de HTML e CSS.
+Uma simples página com informações sobre Busan.<br>
+Projeto desenvolvido para praticar os fundamentos de HTML e CSS.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
